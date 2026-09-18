@@ -1,0 +1,21 @@
+node_modules
+package.json
+package-lock.json
+bun.lock
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+tests/node_modules
+.claude
+.agents
